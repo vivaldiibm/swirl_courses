@@ -27,5 +27,8 @@
   paste(left, right)
 }
 
+"%p%" <- function(Hello,student){ # Remember to add arguments!
+ paste(Hello, student)
+}
 
 
